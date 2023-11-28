@@ -1,0 +1,20 @@
+.colorNavbar {
+    background-color: #6b2a12;
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+}
+
+.colorText {
+    color: white;
+}
+
+.botones{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.boton{
+    margin: 1rem;
+}
